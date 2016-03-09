@@ -1,14 +1,26 @@
-layout_spectrum: 0.02524164
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.2099892
 color:
   saturation: 0.8199146
-  lightness: 0.8405921
   brandStrength: 1
+  rhythmicContrast: 0.5262334
   brandColors:
     - '#FFFFFF'
     - '#000000'
     - '#CC0001'
     - '#7F7F7F'
     - '#404040'
-  rhythmicContrast: 0.5262334
+  lightness: 0.8405921
+layout_spectrum: 1
 name: VEI-SYSTEMS.com
