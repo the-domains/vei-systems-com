@@ -1,0 +1,14 @@
+layout_spectrum: 0.02524164
+typography_spectrum: 0.2099892
+color:
+  saturation: 0.8199146
+  lightness: 0.8405921
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#CC0001'
+    - '#7F7F7F'
+    - '#404040'
+  rhythmicContrast: 0.5262334
+name: VEI-SYSTEMS.com
